@@ -6,4 +6,4 @@ Personal sandbox, learning notes, scripts, and daily practice projects.
 - [x] Day 2: Drone state representation & telemetry parser
 - [X] Day 3: PID controller for altitude hold
 - [X] Day 4: 2D obstacle avoidance logic
-- [ ] Day 5: Flight log visualization & plotting
+- [X] Day 5: Flight log visualization & plotting
