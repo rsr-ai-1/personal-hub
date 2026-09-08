@@ -1,8 +1,9 @@
 # personal-hub
-
 ![Build Status](https://github.com/rsr-ai-1/personal-hub/actions/workflows/python-tests.yml/badge.svg)
 ![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+Personal sandbox, learning notes, scripts, and daily practice projects.
 Personal sandbox, learning notes, scripts, and daily practice projects.
 
 ## Project 1: Drone Flight Controller Simulation (Python)
