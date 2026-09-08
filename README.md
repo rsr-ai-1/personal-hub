@@ -1,23 +1,20 @@
 # personal-hub
 Personal sandbox, learning notes, scripts, and daily practice projects.
 
-# personal-hub
-Personal sandbox, learning notes, scripts, and daily practice projects.
-
 ## Project 1: Drone Flight Controller Simulation (Python)
 - [x] Day 1: System architecture & requirements definition
-- [x] Day 2: Drone state representation & telemetry parser
-- [x] Day 3: PID controller for altitude hold
-- [x] Day 4: 2D obstacle avoidance logic
-- [x] Day 5: Flight log visualization & plotting
+- [x] Day 2: Drone state representation & telemetry parser (`drone_telemetry.py`)
+- [x] Day 3: PID controller for altitude hold (`pid_controller.py`)
+- [x] Day 4: 2D obstacle avoidance logic (`obstacle_avoidance.py`)
+- [x] Day 5: Flight log visualization & plotting (`flight_logger.py`)
 
 ## Project 2: Advanced Robotics & Autonomous Swarms
 - [x] Day 6: Decentralized Reynolds Boids swarm flocking simulation (`swarm_flocking.py`)
-- [ ] Day 7: GPS-Denied Navigation via Extended Kalman Filter (`ekf_localization.py`)
-- [ ] Day 8: Robotic arm kinematics solver (`arm_kinematics.py`)
+- [x] Day 7: GPS-Denied Navigation via Extended Kalman Filter (`ekf_localization.py`)
+- [x] Day 8: Robotic arm kinematics solver (`arm_kinematics.py`)
 
 ## Project 3: Emerging Computing & Intelligent Systems
-- [ ] Day 9: Neuromorphic Leaky Integrate-and-Fire spiking neuron (`lif_neuron_sim.py`)
-- [ ] Day 10: Multi-agent planner-worker-critic loop (`multi_agent_system.py`)
-- [ ] Day 11: Post-Quantum lattice Learning With Errors encryption (`toy_lwe_encryption.py`)
-- [ ] Day 12: Brain-Computer Interface EEG alpha bandpass filter (`eeg_signal_filter.py`)
+- [x] Day 9: Neuromorphic Leaky Integrate-and-Fire spiking neuron (`lif_neuron_sim.py`)
+- [x] Day 10: Multi-agent planner-worker-critic loop (`multi_agent_system.py`)
+- [x] Day 11: Post-Quantum lattice Learning With Errors encryption (`toy_lwe_encryption.py`)
+- [x] Day 12: Brain-Computer Interface EEG alpha bandpass filter (`eeg_signal_filter.py`)
