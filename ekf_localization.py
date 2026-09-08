@@ -4,7 +4,7 @@ import math
 import random
 
 
-class 1D_EKF:
+class EKF1D:
     def __init__(self, initial_pos: float = 0.0, initial_vel: float = 1.0):
         # State: [position, velocity]
         self.x = initial_pos
@@ -47,8 +47,8 @@ class 1D_EKF:
 
 
 if __name__ == "__main__":
-    ekf = 1D_EKF(initial_pos=0.0, initial_vel=2.0)
-    beacon_station = 15.0  # Fixed beacon location
+ekf = EKF1D(initial_pos=0.0, initial_vel=2.0)
+beacon_station = 15.0  # Fixed beacon location
     true_position = 0.0
 
     print("Step | True Pos | Sensor Dist | EKF Estimate | Error")
