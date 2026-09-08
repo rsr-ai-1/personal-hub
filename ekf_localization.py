@@ -47,8 +47,8 @@ class EKF1D:
 
 
 if __name__ == "__main__":
-ekf = EKF1D(initial_pos=0.0, initial_vel=2.0)
-beacon_station = 15.0  # Fixed beacon location
+    ekf = EKF1D(initial_pos=0.0, initial_vel=2.0)
+    beacon_station = 15.0  # Fixed beacon location
     true_position = 0.0
 
     print("Step | True Pos | Sensor Dist | EKF Estimate | Error")
