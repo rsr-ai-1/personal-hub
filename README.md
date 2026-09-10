@@ -5,6 +5,20 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 Personal sandbox, learning notes, scripts, and daily practice projects.
+
+## 🚀 Quick Start
+
+Run the interactive test suite to execute any simulation module:
+
+```bash
+# Clone the repository
+git clone https://github.com/rsr-ai-1/personal-hub.git
+cd personal-hub
+
+# Launch interactive menu runner
+python main.py
+```
+
 ## Project 1: Drone Flight Controller Simulation (Python)
 - [x] Day 1: System architecture & requirements definition
 - [x] Day 2: Drone state representation & telemetry parser (`drone_telemetry.py`)
