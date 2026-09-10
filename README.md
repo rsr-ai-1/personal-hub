@@ -11,9 +11,8 @@ Personal sandbox, learning notes, scripts, and daily practice projects.
 Run the interactive test suite to execute any simulation module:
 
 ```bash
-# Clone the repository
-git clone https://github.com/rsr-ai-1/personal-hub.git
-cd personal-hub
+git clone https://github.com/rsr-systems/autonomous-systems-lab.git
+cd autonomous-systems-lab
 
 # Launch interactive menu runner
 python main.py
