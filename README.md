@@ -1,5 +1,4 @@
-# personal-hub
-
+# autonomous-systems-lab
 ![Build: Passing](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -35,3 +34,8 @@ python main.py
 - [x] Day 10: Multi-agent planner-worker-critic loop (`multi_agent_system.py`)
 - [x] Day 11: Post-Quantum lattice Learning With Errors encryption (`toy_lwe_encryption.py`)
 - [x] Day 12: Brain-Computer Interface EEG alpha bandpass filter (`eeg_signal_filter.py`)
+## Project 4: High-Performance Multi-Language Core
+- [x] **Rust**: Bare-metal discrete PID altitude controller with integral anti-windup (`rust_controller.rs`)
+- [x] **Zig**: Zero-allocation packed binary telemetry frame decoder (`telemetry_parser.zig`)
+- [x] **Julia**: 6-DOF non-linear rocket descent & soft touchdown guidance optimizer (`trajectory_optimizer.jl`)
+- [x] **Elixir**: Fault-tolerant OTP GenServer distributed swarm heartbeat node (`swarm_node.ex`)
