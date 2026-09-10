@@ -1,7 +1,11 @@
 # autonomous-systems-lab
 ![Build: Passing](https://img.shields.io/badge/build-passing-brightgreen.svg)
-![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python 3.11](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-2021-DEA584?logo=rust&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-0.13-F7A41D?logo=zig&logoColor=black)
+![Julia](https://img.shields.io/badge/Julia-1.10-9558B2?logo=julia&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-OTP-4B275F?logo=elixir&logoColor=white)
 
 Personal sandbox, learning notes, scripts, and daily practice projects.
 
