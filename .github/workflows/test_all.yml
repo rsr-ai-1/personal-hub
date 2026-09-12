@@ -8,9 +8,12 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - name: Run every Python module
+     - name: Run every Python module
         run: |
           for f in *.py; do
-            echo "Testing $f..."
-            python "$f"
+            if [ "$f" = "main.py" ]; then
+              echo "q" | python "$f"
+            else
+              python "$f"
+            fi
           done
